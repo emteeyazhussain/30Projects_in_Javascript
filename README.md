@@ -1,33 +1,40 @@
-# 30Projects_in_Javascript
-1.Age calculator
-2.Bg changer
-3.Calculator
-4.Circular-progress-bar
-5.Digital clock
-6.Drag-Drop
-7.Dynamic calender
-8.Email-Subs
-9.GenerateQR
-10.Notes-App
-12.Options select menu
-13.password strength
-14.password-generator
-15.Play-Quiz
-16.Popup
-17.Product_page
-18.Quote Generator
-19.text to speech
-20.To Do List
-21.Toast Notification
-22.Check_Weather
-23.Crypto-price
-24.image_search
-25.Music pLayer
-26.Launching Page
-27.Light/Dark_mode
-28.scrolling image
-29.show hide password
-30.stop watch
-31.validation starter
+# 30 Projects in JavaScript
+
+This repository contains 30 JavaScript projects designed to enhance your skills and understanding of web development. Each project is a hands-on way to practice and improve your JavaScript programming abilities. Feel free to explore and use these projects to expand your knowledge.
+
+## Project List
+
+1. **Age Calculator**
+2. **Background Changer**
+3. **Calculator**
+4. **Circular Progress Bar**
+5. **Digital Clock**
+6. **Drag and Drop**
+7. **Dynamic Calendar**
+8. **Email Subscription**
+9. **Generate QR Code**
+10. **Notes App**
+11. **Options Select Menu**
+12. **Password Strength Checker**
+13. **Password Generator**
+14. **Play Quiz**
+15. **Popup**
+16. **Product Page**
+17. **Quote Generator**
+18. **Text to Speech**
+19. **To-Do List**
+20. **Toast Notification**
+21. **Check Weather**
+22. **Crypto Price**
+23. **Image Search**
+24. **Music Player**
+25. **Launching Page**
+26. **Light/Dark Mode**
+27. **Scrolling Image**
+28. **Show/Hide Password**
+29. **Stopwatch**
+30. **Validation Starter**
+
+### fell free to reach me ... LINK in my Bio
 
 
